@@ -9,7 +9,7 @@ public class JavaToJson {
 	public static void main(String[] args) throws JsonProcessingException {
 		
 		Student javaObject=new Student();
-		javaObject.setSid(111);
+		javaObject.setSid(110);
 		javaObject.setSname("Mangal");
 		javaObject.setSage(31);
 		javaObject.setSrank(5);
