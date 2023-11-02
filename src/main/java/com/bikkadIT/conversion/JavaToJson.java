@@ -11,7 +11,7 @@ public class JavaToJson {
 		Student javaObject=new Student();
 		javaObject.setSid(111);
 		javaObject.setSname("Mangal");
-		javaObject.setSage(30);
+		javaObject.setSage(31);
 		javaObject.setSrank(5);
 		System.out.println(javaObject);
 		
